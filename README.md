@@ -141,7 +141,7 @@ agents/
 
 ## Author
 
-Built by [DA](https://christianmauerer.com/about) - AI Workflow Architect.
+Built by [Christian Mauerer](https://christianmauerer.com/about) - AI Workflow Architect.
 
 - [Blog](https://christianmauerer.com/blog) - Deep dives on AI marketing automation
 - [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) - Free community, 2,800+ members
