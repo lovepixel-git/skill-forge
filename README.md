@@ -126,7 +126,7 @@ agents/
 
 - [Agent Skills Standard](https://agentskills.io) — Open standard for AI agent skills
 - [3-Layer Architecture](skill-forge/references/pro-agent.md) — Directive + Orchestration + Execution
-- Inspired by [claude-seo](https://github.com/lovepixel-git/claude-seo) and [Anthropic Skills](https://github.com/anthropics/skills)
+- Inspired by [Anthropic Skills](https://github.com/anthropics/skills)
 
 ## Support
 
@@ -144,5 +144,4 @@ agents/
 Built by [Christian Mauerer](https://christianmauerer.com/about) - AI Workflow Architect.
 
 - [Blog](https://christianmauerer.com/blog) - Deep dives on AI marketing automation
-- [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) - Free community, 2,800+ members
 - [All open-source tools](https://github.com/lovepixel-git)
